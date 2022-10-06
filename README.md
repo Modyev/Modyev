@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ElJ0k3r&color=green)
+
 - 👋 Hi, I’m @ElJ0k3r
 - 👀 I’m interested in Web Development, Artificial Intelligence, Machine Learning, Software Developing
 - 🌱 I’m currently learning Web Development, Artificial Intelligence
