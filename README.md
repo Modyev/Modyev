@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm Doggo Developer! 🐶</h1>
 <h3 align="center">Self-taught Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=ElJ0k3r&color=green)
+![](https://komarev.com/ghpvc/?username=Doggo-Dev&color=red)
 
 - 👨‍💻 I'm a Self-taught FreeLance Developer
 - 👨‍💻 I have 4+ Years of Professional Programming Experience
