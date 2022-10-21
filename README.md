@@ -7,8 +7,8 @@
 ![](https://komarev.com/ghpvc/?username=Doggo-Dev&color=red)
 
 - 👨‍💻 I'm a Self-taught FreeLance Developer
-- 👨‍💻 I have 4+ Years of Professional Programming Experience
-- 👨‍💻 My portfolio website: soon
+- 💻 I have 4+ Years of Professional Programming Experience
+- 🐕 I am a dog lover and i wish to get one!
 ## Languages &  Tools
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height=45 width=45> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width=50  height=50> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height=50 width=50> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=40 height=40> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=45 height=45> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50 height=50> <img src="https://code.visualstudio.com/assets/images/code-stable.png" height=45 width=45> <img src="https://godotengine.org/themes/godotengine/assets/press/icon_color.png" width=50 height=50> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" height=45 width=45>
 <!---
