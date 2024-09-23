@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi, I'm Modyev! 🐶</h1>
+<h1 align="center">Hi, I'm Modyev! 🙋‍♂️</h1>
 
 ![](https://komarev.com/ghpvc/?username=Doggo-Dev&color=red)
 
