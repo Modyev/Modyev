@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Modyev! 🙋‍♂️</h1>
 
-![](https://komarev.com/ghpvc/?username=Modyevcolor=red)
+![](https://komarev.com/ghpvc/?username=Modyev&color=red)
 
 - 👨‍💻 Self Taught C# Developer
 - 💻 Primarily works with .NET Framework
